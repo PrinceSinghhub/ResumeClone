@@ -6,7 +6,7 @@
 <li>CSS</li>
 <br>
 
-<b>Link: https://princesinghresume.netlify.app/
+<b>Link: https://princesinghresume.netlify.app/</b>
 
 # 🎥 Video of the Website
 
